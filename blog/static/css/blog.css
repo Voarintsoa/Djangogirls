@@ -6,7 +6,7 @@ h1 a, h2 a {
 .page-header {
     background-color: #de1f65;
     margin-top: 0;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
     padding: 20px 20px 20px 40px;
 }
 
@@ -14,21 +14,21 @@ h1 a, h2 a {
 .page-header h1 a,
 .page-header h1 a:visited,
 .page-header h1 a:active {
-    color: #ffffff;
-    font-size: 36pt;
+    color: #f8fbfc;
+    font-size: 50pt;
     text-decoration: none;
-    padding-left: 80px;
+    padding-left: 70px;
 }
 
 h1,
 h2,
 h3,
 h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Moo Lah Lah', cursive;
 }
 
 .date {
-    color: #8f0707;
+    color: #de1f65;
 }
 
 .save {
@@ -43,7 +43,7 @@ h4 {
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
-    color: #ffffff;
+    color: #f8f8f8;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
