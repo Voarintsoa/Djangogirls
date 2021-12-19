@@ -17,7 +17,7 @@ h1 a, h2 a {
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
-    padding-left: 150px;
+    padding-left: 80px;
 }
 
 h1,
@@ -28,7 +28,7 @@ h4 {
 }
 
 .date {
-    color: #140e0e;
+    color: #8f0707;
 }
 
 .save {
